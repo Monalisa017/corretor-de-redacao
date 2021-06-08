@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+header{
+    background-color: rgba(99, 8, 70, 0.829);
+    height: 180px;
+    font-size: 55px;
+    display: grid;  
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(167, 164, 164);
+    margin-top: 5px;
+}
+img{
+    display: block;
+}
